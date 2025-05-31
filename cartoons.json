@@ -28,8 +28,8 @@
     "genre": "Action, Superhero",
     "country": "USA",
     "network": "Cartoon Network",
-    "image": "https://dee9000.github.io/retro-cartoon-data/powerpuff_main.jpg",
-    "circleImage": "https://dee9000.github.io/retro-cartoon-data/powerpuff_icon.png",
+    "image": "https://dee9000.github.io/retro-cartoon-data/powerpuffgirls_main.jpg",
+    "circleImage": "https://dee9000.github.io/retro-cartoon-data/powerpuffgirls_icon.webp",
     "description": "Three kindergarten-aged girls—Blossom, Bubbles, and Buttercup—were created by accident but use their superpowers to save the city of Townsville from mad scientists, aliens, and giant monsters."
   },
   {
@@ -62,7 +62,7 @@
     "country": "USA",
     "network": "Fox Kids / WB",
     "image": "https://dee9000.github.io/retro-cartoon-data/batman_main.jpg",
-    "circleImage": "https://dee9000.github.io/retro-cartoon-data/batman_icon.png",
+    "circleImage": "https://dee9000.github.io/retro-cartoon-data/batman_icon.webp",
     "description": "Bruce Wayne fights crime as the mysterious and brooding Batman, facing off against a rogues' gallery including the Joker, Mr. Freeze, and Catwoman in this dark, stylized take on Gotham City."
   },
   {
@@ -72,8 +72,8 @@
     "genre": "Adventure, Comedy",
     "country": "Canada / USA",
     "network": "Syndication",
-    "image": "https://dee9000.github.io/retro-cartoon-data/gadget_main.jpg",
-    "circleImage": "https://dee9000.github.io/retro-cartoon-data/gadget_icon.png",
+    "image": "https://dee9000.github.io/retro-cartoon-data/inspectorgadget_main.jpg",
+    "circleImage": "https://dee9000.github.io/retro-cartoon-data/inspectorgadget_icon.png",
     "description": "Inspector Gadget is a bumbling cyborg detective equipped with an array of gadgets. He battles the sinister Dr. Claw, often unaware of the real help coming from his niece Penny and her dog Brain."
   },
   {
