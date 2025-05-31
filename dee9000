@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "DuckTales",
+    "year": 1987,
+    "genre": "Adventure",
+    "image": "https://yourusername.github.io/cartoon-data/images/ducktales.jpg",
+    "circleImage": "https://yourusername.github.io/cartoon-data/images/ducktales-icon.png",
+    "description": "Scrooge McDuck and his grandnephews explore hidden treasures and battle villains."
+  },
+  {
+    "id": 2,
+    "title": "Dexter's Laboratory",
+    "year": 1996,
+    "genre": "Sci-Fi",
+    "image": "https://yourusername.github.io/cartoon-data/images/dexter.jpg",
+    "circleImage": "https://yourusername.github.io/cartoon-data/images/dexter-icon.png",
+    "description": "Dexter, a boy genius with a secret lab, faces off against his sister Dee Dee."
+  }
+]
