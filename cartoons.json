@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "title": "Dexter's Laboratory",
+    "year": 1996,
+    "genre": "Sci-Fi",
+    "image": "https://dee9000.github.io/retro-cartoon-data/dexterslab_main.jpg",
+    "circleImage": "https://dee9000.github.io/retro-cartoon-data/dexterslab_icon.png",
+    "description": "Dexter, a boy genius with a secret lab, faces off against his sister Dee Dee."
+  }
+]
