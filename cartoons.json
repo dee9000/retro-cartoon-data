@@ -284,16 +284,5 @@
     "image": "https://dee9000.github.io/retro-cartoon-data/tmnt_main.jpg",
     "circleImage": "https://dee9000.github.io/retro-cartoon-data/tmnt_icon.png",
     "description": "Four mutated turtles—Leonardo, Donatello, Michelangelo, and Raphael—train in ninjutsu to battle crime in New York City. Guided by Master Splinter, they fight Shredder and the Foot Clan."
-  },
-  {
-    "id": 27,
-    "title": "Visionaries: Knights of the Magical Light",
-    "year": 1987,
-    "genre": "Fantasy, Sci-Fi",
-    "country": "USA",
-    "network": "Syndication",
-    "image": "https://dee9000.github.io/retro-cartoon-data/visionaries_main.jpg",
-    "circleImage": "https://dee9000.github.io/retro-cartoon-data/visionaries_icon.png",
-    "description": "On a post-technological planet, warriors wield staffs that summon animal totems and elemental magic. The Spectral Knights battle the evil Darkling Lords in a struggle of mysticism and valor."
   }
 ]
