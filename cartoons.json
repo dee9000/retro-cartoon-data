@@ -150,7 +150,7 @@
     "country": "USA",
     "network": "TBS",
     "image": "https://dee9000.github.io/retro-cartoon-data/captainplanet_main.jpg",
-    "circleImage": "https://dee9000.github.io/retro-cartoon-data/captainplanet_icon.png",
+    "circleImage": "https://dee9000.github.io/retro-cartoon-data/captainplanet_icon.webp",
     "description": "Five teens with magical rings summon Captain Planet to combat pollution and protect Earth. With an environmental message, each episode highlights global unity, sustainability, and responsibility.",
     "episodes": 113,
     "mainCharacters": ["Captain Planet", "Kwame", "Wheeler", "Linka", "Gi", "Ma-Ti"]
@@ -162,8 +162,8 @@
     "genre": "Action, Sci-Fi",
     "country": "USA",
     "network": "Syndication",
-    "image": "https://dee9000.github.io/retro-cartoon-data/mask_main.jpg",
-    "circleImage": "https://dee9000.github.io/retro-cartoon-data/mask_icon.png",
+    "image": "https://dee9000.github.io/retro-cartoon-data/mask_main.webp",
+    "circleImage": "https://dee9000.github.io/retro-cartoon-data/mask_icon.webp",
     "description": "The Mobile Armored Strike Kommand (M.A.S.K.) battles the criminal organization V.E.N.O.M. with transforming vehicles and high-tech masks. Combining mystery, action, and futuristic warfare, M.A.S.K. became a cult classic.",
     "episodes": 75,
     "mainCharacters": ["Matt Trakker", "Miles Mayhem", "Gloria Baker", "Bruce Sato", "Alex Sector"]
@@ -176,7 +176,7 @@
     "country": "USA",
     "network": "Syndication",
     "image": "https://dee9000.github.io/retro-cartoon-data/bikermice_main.jpg",
-    "circleImage": "https://dee9000.github.io/retro-cartoon-data/bikermice_icon.png",
+    "circleImage": "https://dee9000.github.io/retro-cartoon-data/bikermice_icon.jpg",
     "description": "Three motorbike-riding mice from Mars—Throttle, Modo, and Vinnie—land on Earth to fight the evil Plutarkians exploiting the planet. The show blends humor, action, and 90s rock vibes in a post-apocalyptic tone.",
     "episodes": 65,
     "mainCharacters": ["Throttle", "Modo", "Vinnie", "Charley Davidson", "Lawrence Limburger"]
@@ -202,7 +202,7 @@
     "country": "USA",
     "network": "Syndication",
     "image": "https://dee9000.github.io/retro-cartoon-data/silverhawks_main.jpg",
-    "circleImage": "https://dee9000.github.io/retro-cartoon-data/silverhawks_icon.png",
+    "circleImage": "https://dee9000.github.io/retro-cartoon-data/silverhawks_icon.jpg",
     "description": "A group of cyborg heroes with metallic wings patrol the galaxy, battling Mon*Star and his gang. Each member brings unique abilities to this action-packed, space-themed cartoon from the creators of ThunderCats.",
     "episodes": 65,
     "mainCharacters": ["Quicksilver", "Bluegrass", "Steelheart", "Steelwill", "Mon*Star"]
@@ -215,7 +215,7 @@
     "country": "USA",
     "network": "ABC / Syndication",
     "image": "https://dee9000.github.io/retro-cartoon-data/carebears_main.jpg",
-    "circleImage": "https://dee9000.github.io/retro-cartoon-data/carebears_icon.png",
+    "circleImage": "https://dee9000.github.io/retro-cartoon-data/carebears_icon.jpg",
     "description": "Living in Care-a-Lot, these cuddly bears use their belly badges to spread love and tackle emotional challenges. From Cheer Bear to Grumpy Bear, they teach kids empathy, friendship, and self-expression.",
     "episodes": 60,
     "mainCharacters": ["Cheer Bear", "Grumpy Bear", "Tenderheart Bear", "Funshine Bear", "Wish Bear"]
@@ -254,7 +254,7 @@
     "country": "USA",
     "network": "Syndication",
     "image": "https://dee9000.github.io/retro-cartoon-data/teddyruxpin_main.jpg",
-    "circleImage": "https://dee9000.github.io/retro-cartoon-data/teddyruxpin_icon.png",
+    "circleImage": "https://dee9000.github.io/retro-cartoon-data/teddyruxpin_icon.webp",
     "description": "Teddy Ruxpin leaves his homeland to explore the lands of Grundo, discovering ancient treasures, facing danger, and learning valuable life lessons with his friends Grubby and Newton Gimmick.",
     "episodes": 65,
     "mainCharacters": ["Teddy Ruxpin", "Grubby", "Newton Gimmick", "Quellor", "Prince Arin"]
@@ -280,7 +280,7 @@
     "country": "USA / Japan",
     "network": "Syndication",
     "image": "https://dee9000.github.io/retro-cartoon-data/bionic6_main.jpg",
-    "circleImage": "https://dee9000.github.io/retro-cartoon-data/bionic6_icon.png",
+    "circleImage": "https://dee9000.github.io/retro-cartoon-data/bionic6_icon.jpg",
     "description": "The Bennett family becomes cybernetically enhanced heroes to battle evil forces. Each member of the Bionic Six possesses a unique power in this fusion of family drama and futuristic action.",
     "episodes": 65,
     "mainCharacters": ["Jack Bennett", "Helen Bennett", "Eric", "Meg", "J.D.", "Bunji"]
@@ -292,8 +292,8 @@
     "genre": "Action, Sci-Fi",
     "country": "USA",
     "network": "Syndication",
-    "image": "https://dee9000.github.io/retro-cartoon-data/centurions_main.jpg",
-    "circleImage": "https://dee9000.github.io/retro-cartoon-data/centurions_icon.png",
+    "image": "https://dee9000.github.io/retro-cartoon-data/centurions_main.webp",
+    "circleImage": "https://dee9000.github.io/retro-cartoon-data/centurions_icon.jpeg",
     "description": "With the battle cry 'PowerXtreme!', Max, Ace, and Jake don exo-suits that fuse them with weapon systems. They battle the robotic forces of Doc Terror in land, sea, and air combat.",
     "episodes": 65,
     "mainCharacters": ["Max Ray", "Jake Rockwell", "Ace McCloud", "Doc Terror", "Hacker"]
@@ -305,8 +305,8 @@
     "genre": "Fantasy, Adventure",
     "country": "USA",
     "network": "CBS",
-    "image": "https://dee9000.github.io/retro-cartoon-data/dnd_main.jpg",
-    "circleImage": "https://dee9000.github.io/retro-cartoon-data/dnd_icon.png",
+    "image": "https://dee9000.github.io/retro-cartoon-data/DungeonsDragons_main.jpg",
+    "circleImage": "https://dee9000.github.io/retro-cartoon-data/DungeonsDragons_icon.jpg",
     "description": "A roller coaster ride transports six kids to a fantasy realm. Guided by Dungeon Master, they fight monsters and villains while seeking a way home. Based on the famous tabletop RPG.",
     "episodes": 27,
     "mainCharacters": ["Hank", "Sheila", "Eric", "Presto", "Diana", "Dungeon Master"]
@@ -318,7 +318,7 @@
     "genre": "Military, Action",
     "country": "USA",
     "network": "Syndication",
-    "image": "https://dee9000.github.io/retro-cartoon-data/gijoe_main.jpg",
+    "image": "https://dee9000.github.io/retro-cartoon-data/gijoe_main.jpeg",
     "circleImage": "https://dee9000.github.io/retro-cartoon-data/gijoe_icon.png",
     "description": "G.I. Joe, the elite strike team, battles Cobra—a ruthless terrorist organization. Known for its PSAs and epic action sequences, this show blended toy marketing with real-world themes of heroism.",
     "episodes": 95,
@@ -332,7 +332,7 @@
     "country": "USA",
     "network": "CBS / Syndication",
     "image": "https://dee9000.github.io/retro-cartoon-data/tmnt_main.jpg",
-    "circleImage": "https://dee9000.github.io/retro-cartoon-data/tmnt_icon.png",
+    "circleImage": "https://dee9000.github.io/retro-cartoon-data/tmnt_icon.webp",
     "description": "Four mutated turtles named after Renaissance artists—Leonardo, Donatello, Michelangelo, and Raphael—fight evil in New York’s sewers. Pizza-loving ninjas trained by a wise rat sensei.",
     "episodes": 193,
     "mainCharacters": ["Leonardo", "Michelangelo", "Donatello", "Raphael", "Splinter", "Shredder"]
@@ -344,7 +344,7 @@
     "genre": "Fantasy, Sci-Fi",
     "country": "USA",
     "network": "Syndication",
-    "image": "https://dee9000.github.io/retro-cartoon-data/visionaries_main.jpg",
+    "image": "https://dee9000.github.io/retro-cartoon-data/visionaries_main.webp",
     "circleImage": "https://dee9000.github.io/retro-cartoon-data/visionaries_icon.png",
     "description": "In a world where technology has failed, knights gain magical animal totems to fight evil. The Spectral Knights battle the Darkling Lords in a richly imagined realm of mystical warfare.",
     "episodes": 13,
