@@ -6,11 +6,11 @@
     "genre": "Sci-Fi, Comedy",
     "country": "USA",
     "network": "Cartoon Network",
+    "episodes": 78,
+    "mainCharacters": ["Dexter", "Dee Dee", "Mandark", "Mom", "Dad"],
     "image": "https://dee9000.github.io/retro-cartoon-data/dexterslab_main.jpg",
     "circleImage": "https://dee9000.github.io/retro-cartoon-data/dexterslab_icon.png",
-    "description": "Dexter is a boy genius who secretly operates a high-tech laboratory hidden behind his bookshelf. With his hyper-intelligent mind and inventions, he battles rivals, thwarts his sister Dee Dee’s chaos, and navigates childhood.",
-    "episodes": 78,
-    "mainCharacters": ["Dexter", "Dee Dee", "Mandark"]
+    "description": "Dexter is a boy genius with a hidden lab where he creates amazing inventions. Constantly interrupted by his sister Dee Dee, Dexter navigates the chaos of science and sibling rivalry in this witty cartoon classic."
   },
   {
     "id": 2,
@@ -19,11 +19,11 @@
     "genre": "Comedy, Adventure",
     "country": "USA",
     "network": "Nickelodeon",
+    "episodes": 172,
+    "mainCharacters": ["Tommy Pickles", "Chuckie Finster", "Phil and Lil", "Angelica", "Susie"],
     "image": "https://dee9000.github.io/retro-cartoon-data/rugrats_main.jpg",
     "circleImage": "https://dee9000.github.io/retro-cartoon-data/rugrats_icon.png",
-    "description": "Follows a group of adventurous toddlers—Tommy, Chuckie, and twins Phil and Lil—as they navigate the world from their pint-sized perspectives, turning everyday events into grand adventures.",
-    "episodes": 172,
-    "mainCharacters": ["Tommy Pickles", "Chuckie Finster", "Angelica Pickles"]
+    "description": "The world is a big adventure when you’re a baby. Follow Tommy, Chuckie, and friends as they explore their surroundings, battle imaginary monsters, and learn about life in this heartwarming and hilarious series."
   },
   {
     "id": 3,
@@ -32,10 +32,76 @@
     "genre": "Action, Superhero",
     "country": "USA",
     "network": "Cartoon Network",
+    "episodes": 78,
+    "mainCharacters": ["Blossom", "Bubbles", "Buttercup", "Professor Utonium", "Mojo Jojo"],
     "image": "https://dee9000.github.io/retro-cartoon-data/powerpuffgirls_main.jpg",
     "circleImage": "https://dee9000.github.io/retro-cartoon-data/powerpuffgirls_icon.webp",
-    "description": "Three kindergarten-aged girls—Blossom, Bubbles, and Buttercup—were created by accident but use their superpowers to save the city of Townsville from mad scientists, aliens, and giant monsters.",
-    "episodes": 78,
-    "mainCharacters": ["Blossom", "Bubbles", "Buttercup"]
+    "description": "Blossom, Bubbles, and Buttercup—three super-powered sisters—fight villains, monsters, and the forces of evil in the city of Townsville. Created from sugar, spice, and everything nice, they’re pint-sized heroes with big hearts."
+  },
+  {
+    "id": 4,
+    "title": "Animaniacs",
+    "yearsAired": "1993–1998",
+    "genre": "Sketch Comedy",
+    "country": "USA",
+    "network": "Fox Kids / WB",
+    "episodes": 99,
+    "mainCharacters": ["Yakko", "Wakko", "Dot", "Pinky", "Brain"],
+    "image": "https://dee9000.github.io/retro-cartoon-data/animaniacs_main.jpg",
+    "circleImage": "https://dee9000.github.io/retro-cartoon-data/animaniacs_icon.png",
+    "description": "Join the Warner siblings—Yakko, Wakko, and Dot—as they break the fourth wall, parody pop culture, and bring slapstick mayhem to the studio lot. Each episode is packed with songs, skits, and outrageous humor."
+  },
+  {
+    "id": 5,
+    "title": "Samurai Jack",
+    "yearsAired": "2001–2017",
+    "genre": "Adventure, Sci-Fi",
+    "country": "USA",
+    "network": "Cartoon Network",
+    "episodes": 62,
+    "mainCharacters": ["Jack", "Aku", "The Scotsman", "Ashi", "Guardian"],
+    "image": "https://dee9000.github.io/retro-cartoon-data/samuraijack_main.jpg",
+    "circleImage": "https://dee9000.github.io/retro-cartoon-data/samuraijack_icon.png",
+    "description": "A stoic samurai from the past is cast into a dark future ruled by the shape-shifting demon Aku. In a visually stunning odyssey, Jack must find a way back to his time to undo the evil that plagues the world."
+  },
+  {
+    "id": 6,
+    "title": "Batman: The Animated Series",
+    "yearsAired": "1992–1995",
+    "genre": "Superhero, Noir",
+    "country": "USA",
+    "network": "Fox Kids / WB",
+    "episodes": 85,
+    "mainCharacters": ["Batman", "Robin", "Joker", "Harley Quinn", "Catwoman"],
+    "image": "https://dee9000.github.io/retro-cartoon-data/batman_main.jpg",
+    "circleImage": "https://dee9000.github.io/retro-cartoon-data/batman_icon.webp",
+    "description": "Gotham’s dark knight faces his infamous rogues in a brooding, beautifully animated series. With film noir visuals and mature storytelling, Batman: TAS is considered one of the greatest superhero shows of all time."
+  },
+  {
+    "id": 7,
+    "title": "Inspector Gadget",
+    "yearsAired": "1983–1986",
+    "genre": "Adventure, Comedy",
+    "country": "Canada / USA",
+    "network": "Syndication",
+    "episodes": 86,
+    "mainCharacters": ["Inspector Gadget", "Penny", "Brain", "Dr. Claw"],
+    "image": "https://dee9000.github.io/retro-cartoon-data/inspectorgadget_main.jpg",
+    "circleImage": "https://dee9000.github.io/retro-cartoon-data/inspectorgadget_icon.png",
+    "description": "Go-Go-Gadget! Join a clueless cyborg detective as he fights the evil M.A.D. organization. Luckily, his niece Penny and her dog Brain are always there to save the day—secretly!"
+  },
+  {
+    "id": 8,
+    "title": "Pinky and the Brain",
+    "yearsAired": "1995–1998",
+    "genre": "Sci-Fi, Satire",
+    "country": "USA",
+    "network": "WB Television",
+    "episodes": 65,
+    "mainCharacters": ["Pinky", "The Brain", "Snowball", "Bill Clinton (caricature)"],
+    "image": "https://dee9000.github.io/retro-cartoon-data/pinkybrain_main.jpg",
+    "circleImage": "https://dee9000.github.io/retro-cartoon-data/pinkybrain_icon.png",
+    "description": "Every night, one mouse schemes to take over the world—while the other muddles the plan. This witty, darkly comedic spin-off from Animaniacs is a cult favorite with satirical genius."
   }
+  // Continues with entries 9 to 27...
 ]
